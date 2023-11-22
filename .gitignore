@@ -1,0 +1,44 @@
+###################
+# Compiled file
+###################
+
+*/bin/
+*.class
+
+###################
+# eclipse file
+###################
+
+*.lock
+
+#/.metadata/
+#/.recommenders/
+#/.classpath/
+#/.project/
+#/.settings/
+
+#.metadata
+#.recommenders
+#.classpath
+#.project
+#.settings
+
+###################
+# OS  file
+###################
+
+.DS_Store
+.DS_Store?
+
+.Spotlight-V100
+.Trashes
+
+ehthumbs.db
+Thumbs.db
+
+###################
+# end
+###################
+
+
+
